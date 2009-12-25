@@ -1,0 +1,14 @@
+#summary How to use omirssi
+#labels Featured,Phase-Support
+
+= Loading the script =
+
+One loads the script like any other irssi script, with a quick /script load omirssi.
+It creates a new window called omegle if one doesn't already exist, and lives inside that window.
+
+= Chatting =
+
+  * /om_connect - starts a new omegle session with a stranger
+  * /om_disconnect - ends the running omegle session
+  * /om_say - sends a message to the current omegle session
+  * /om_rename - changes what they're called in the irssi interface
