@@ -12,4 +12,4 @@ cpan[1]> install WWW::Omegle
 
 = Script Installation =
 
-Installing the script is easy, just pop it in ~/.irssi/scripts/ if you want to just install it for your user, or /usr/share/irssi/scripts/ to install it system wide.
+After downloading the tar archive provided, extract it in your home directory. It will pop the omirssi.pl script right in your ~/.irssi/scripts directory. If you want to install it system wide, move it to /usr/share/irssi/scripts or where ever your OS puts your system irssi scripts.
