@@ -1,8 +1,7 @@
 #summary How to install omirssi
 #labels Featured,Phase-Deploy
 
-= Omirssi Installation =
-== Dependencies ==
+= Dependencies =
 
 Obviously, omirssi requires irssi and perl. However, it also requires the perl module WWW::Omegle which you probably don't have, and which is probably not present in your OS's package manager. Install it using CPAN below.
 
@@ -11,6 +10,6 @@ Obviously, omirssi requires irssi and perl. However, it also requires the perl m
 cpan[1]> install WWW::Omegle
 }}}
 
-== Script Installation ==
+= Script Installation =
 
 Installing the script is easy, just pop it in ~/.irssi/scripts/ if you want to just install it for your user, or /usr/share/irssi/scripts/ to install it system wide.
