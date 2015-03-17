@@ -1,0 +1,1 @@
+A quickie irssi script that enables people to talk to strangers on Omegle.
